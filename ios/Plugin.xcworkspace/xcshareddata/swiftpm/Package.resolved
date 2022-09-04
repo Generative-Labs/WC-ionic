@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CryptoSwift",
+        "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "039f56c5d7960f277087a0be51f5eb04ed0ec073",
+          "version": "1.5.1"
+        }
+      },
+      {
+        "package": "WalletConnectSwift",
+        "repositoryURL": "https://github.com/WalletConnect/WalletConnectSwift",
+        "state": {
+          "branch": "master",
+          "revision": "e0bbfd16d5c54a7aa7e316956d765399c6332fa2",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
